@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=introduction.gif>
+<img src="https://gph.is/g/4zAxO0v">
 <!--
 **raunakMahalik/raunakMahalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
