@@ -5,4 +5,4 @@
 
 ---
 
-<img align="left" alt="Raunak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raunakMahalik&show_icons=true&theme=vue-dark" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakMahalik&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stat)
+<img align="left" alt="Raunak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raunakMahalik&show_icons=true&theme=vue-dark" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakMahalik&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
